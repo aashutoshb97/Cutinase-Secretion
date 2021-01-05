@@ -1,0 +1,4 @@
+# From uniprot-reviewed.fasta
+# 50 <= L < 10000
+sequence
+#Sequences are obtained from uniprot-reviewed-lim_sequences.txt present in the input folder of https://github.com/fhalab/embeddings_reproduction/

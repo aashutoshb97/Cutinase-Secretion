@@ -1,0 +1,5 @@
+Include the following folders before implementing the code -
+1) docvec_models
+2) augmented_models
+3) sp_secretion_embeddings
+4) only_sp_secretion_embeddings
